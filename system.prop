@@ -5,3 +5,11 @@
 # RIL
 telephony.lteOnGsmDevice=1
 ro.telephony.default_network=9
+
+# hardware info
+ro.device.chipset=Qualcomm Snapdragon 800 MSM8974
+ro.device.cpu=2.3GHz quad-core Krait
+ro.device.gpu=Qualcomm Adreno 330
+ro.device.rear_cam=13 MP
+ro.device.front_cam=2.1 MP
+ro.device.screen_res=1080x1920
