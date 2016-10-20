@@ -17,7 +17,6 @@
 include device/lge/g2-common/BoardConfigCommon.mk
 
 TARGET_KERNEL_CONFIG := cyanogenmod_l01f_defconfig
-BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 TARGET_OTA_ASSERT_DEVICE := l01f,l-01f,L01F,L-01F,g2,galbi
 
