@@ -5,6 +5,7 @@
 # RIL
 telephony.lteOnGsmDevice=1
 ro.telephony.default_network=9
+ro.telephony.ril_class=LgeLteRIL
 
 # hardware info
 ro.device.chipset=Qualcomm Snapdragon 800 MSM8974
